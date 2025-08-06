@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sanjuga17-SK
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning networking
+- 👋 Hi, I’m Sanjuga S K
+- 👀 I’m interested in Artificial Inteligent
+- 🌱 I’m currently pursuing bachelor og computer science and engineering
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
